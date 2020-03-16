@@ -1,21 +1,29 @@
+![logo](https://raw.githubusercontent.com/adhec/plasmaX/master/light.png "logo")
+
 # PlasmaX
 
 As windowsX theme but better ;)
 
+[![light](https://raw.githubusercontent.com/adhec/plasmaX/master/plasmaXlight_.png)]
+(https://raw.githubusercontent.com/adhec/plasmaX/master/plasmaXlight.png "view")
+
+
+
+[![dark](https://raw.githubusercontent.com/adhec/plasmaX/master/plasmaXdark_.png)]
+(https://raw.githubusercontent.com/adhec/plasmaX/master/plasmaXdark.png "view")
+
+
 ## Icons for Plasma, gnome, xfce, cinnamon, lxde, i3
 
 - Icons  [download](https://www.pling.com/p/1367155/): extract the content in
-
 ` ~/.local/share/icons/`
 
 ## Plasma 
 
 - Look and fee [download](https://www.pling.com/p/1367175/) or install from 
-
 `systemsettings > look and feel > get new theme > Search 'PlasmaXLight' or 'PlasmaXDark'`
 
 - Color scheme [download](https://www.pling.com/p/1367143/) and extract the content in
-
 ` ~/.local/share/color-schemes/ `
 
 - Plasma theme [download](https://www.pling.com/p/1367149/) and extract the content in
@@ -39,8 +47,9 @@ As windowsX theme but better ;)
 
 If you enjoy my content, please consider supporting what I do:
 
+[![coffee](https://raw.githubusercontent.com/adhec/plasmaX/master/coffee.png)]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url "coffee")
 
-
-Share your ❤️ Buy me a ☕ from [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=ur) or [Liberapay](https://liberapay.com/_adhe_/donate).
+Share your ❤️ Buy me a ☕ from [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) or [Liberapay](https://liberapay.com/_adhe_/donate).
 
 Have fun ;)
