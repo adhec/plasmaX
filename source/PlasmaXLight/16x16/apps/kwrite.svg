@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<defs id="defs4">
+		<linearGradient id="linearGradient6571-1" y2="1274.4" gradientUnits="userSpaceOnUse" x2="692" gradientTransform="translate(359.36 -1282.4)" y1="1274.4" x1="678">
+			<stop id="stop6144" stop-color="#6f8181" offset="0"/>
+			<stop id="stop6146" stop-color="#334545" offset="1"/>
+		</linearGradient>
+	</defs>
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="layer1" transform="translate(0 -1036.4)">
+		<g>
+			<rect id="rect6548-6" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" transform="rotate(90)" ry="2" height="14" width="14" y="-15" x="1037.4" fill="url(#linearGradient6571-1)"/>
+			<rect id="rect6548-7-4" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" ry="1" height="12" width="12" y="1038.4" x="2" fill="#eff1f1"/>
+			<g fill="#b0b8b8">
+				<rect id="rect6150-4-3" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="1" width="8" y="1039.4" x="3"/>
+				<rect id="rect6150-9-9-9-8" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="1" width="10" y="1041.4" x="3"/>
+				<rect id="rect6189-5-0" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="1" width="6" y="1043.4" x="3"/>
+				<rect id="rect6191-3-4" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="1" width="3" y="1045.4" x="3"/>
+				<rect id="rect6187-1-3-8" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="1" width="6" y="1047.4" x="3"/>
+			</g>
+		</g>
+		<path id="path6212-9-7" d="m10 1043.4v1h0.5c0.5 0 0.5 0.5 0.5 0.5v3s0 0.5-0.5 0.5h-0.5v1h0.5c0.5 0 1-0.5 1-0.5s0.5 0.5 1 0.5h0.5v-1h-0.5c-0.5 0-0.5-0.5-0.5-0.5v-3s0-0.5 0.5-0.5h0.5v-1h-0.5c-0.5 0-1 0.5-1 0.5s-0.5-0.5-1-0.5z" fill-rule="evenodd" fill="#6f8181"/>
+	</g>
+</svg>

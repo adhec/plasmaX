@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64.000001" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<defs id="defs4">
+		<linearGradient id="linearGradient5851-3" x1="833" gradientUnits="userSpaceOnUse" y1="263" gradientTransform="translate(-824,-230.04)" x2="833" y2="262">
+			<stop id="stop9572-6" stop-color="#fff" stop-opacity="0" offset="0"/>
+			<stop id="stop9574-7" stop-color="#fff" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient5859-5" x1="843" gradientUnits="userSpaceOnUse" y1="1249.4" gradientTransform="matrix(1.4444 0 0 1 -1192.9 -1281.3)" x2="843" y2="1250.4">
+			<stop id="stop4904-3" offset="0"/>
+			<stop id="stop4906-5" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient6279-6" x1="695" gradientUnits="userSpaceOnUse" y1="245.85" gradientTransform="translate(-678,-200)" x2="695" y2="216">
+			<stop id="stop6275-2" stop-color="#fcfcfc" offset="0"/>
+			<stop id="stop6277-9" stop-color="#dddbdb" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient6287-1" x1="705" gradientUnits="userSpaceOnUse" y1="1210.4" gradientTransform="translate(-670 -1198.4)" x2="705" y2="1250.4">
+			<stop id="stop7007-2" stop-color="#7a747c" offset="0"/>
+			<stop id="stop7009-7" stop-color="#534d52" offset="1"/>
+		</linearGradient>
+	</defs>
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="layer1">
+		<rect id="rect5693" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" ry="4" height="40" width="56" y="12" x="4" fill="url(#linearGradient6287-1)"/>
+		<path id="rect5693-7" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="#343031" d="m8 52.04c-2.216 0-4-1.784-4-4v-1c0 2.216 1.784 4 4 4h48c2.216 0 4-1.784 4-4v1c0 2.216-1.784 4-4 4z"/>
+		<path id="path5823" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="#b6b2b6" d="m58 32h-52v16c0 1.108 0.89199 2 2 2h48c1.108 0 2-0.892 2-2z"/>
+		<path id="rect5605-6-4-0-3-6-4" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="#dddbdb" d="m6 32h0.0127l-2.9971 14.389c-0.1565 0.883 0.8905 1.611 1.9971 1.611h53.975c1.1066 0 2.1536-0.7278 1.9971-1.6113l-2.9971-14.389h0.0127z"/>
+		<path id="rect5794" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="url(#linearGradient6279-6)" d="m8 14c-1.108 0-2 0.892-2 2v16h0.0137l-3.998 12.389c-0.1565 0.8835 0.89149 1.6113 1.998 1.6113h55.975c1.1066 0 2.1526-0.7278 1.9961-1.6113l-3.996-12.389h0.0117v-16c0-1.108-0.89199-2-2-2z"/>
+		<path id="path6250-3" fill-rule="evenodd" fill="#dddbdb" d="m9 14v18l-4 14h1l4-14v-18h-1z"/>
+		<path id="rect6187-1" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="#7a747c" d="m12.42 34h2l-0.48615 2h-2z"/>
+		<g fill-rule="evenodd">
+			<path id="path6360" fill="#44a410" d="m11.224 38-0.64356 2h6.0098l0.62012-2z"/>
+			<path id="path6358" fill="#37a4f5" d="m11.937 42-0.64357 2h8.0586l0.62013-2z"/>
+			<path id="path6360-4" fill="#7a747c" d="m19.224 38-0.64356 2h2.0098l0.62012-2z"/>
+			<path id="path6358-8" fill="#f99133" d="m21.937 42-0.64357 2h4.0586l0.62013-2z"/>
+		</g>
+		<path id="rect5794-0" opacity=".4" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m2.092 43.967-0.0762 0.422c-0.1565 0.883 0.8915 1.611 1.998 1.611h55.975c1.1066 0 2.1526-0.7278 1.9961-1.6113l-0.076-0.422c-0.26 0.601-1.069 1.033-1.92 1.033h-55.975c-0.8514 0-1.6618-0.432-1.9221-1.033z" fill="#fff"/>
+		<path id="path4709" d="m52 32v-1c0-1 1-1 1-1h1v-2h-1c-1.5 0-2 1-2 1s-0.66591-1-2-1h-1l-0.009 2h1.009s1 0 1 1v1z" fill-rule="evenodd" fill="#7a747c"/>
+		<rect id="rect5825" opacity=".05" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" transform="scale(1,-1)" ry="0" height="1" width="52" y="-32" x="6" fill="url(#linearGradient5859-5)"/>
+		<rect id="rect6150-9" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="4" y="18" x="12" fill="#7a747c"/>
+		<rect id="rect6150-9-9" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="4" y="22" x="12" fill="#44a410"/>
+		<rect id="rect6189" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="2" y="26" x="14" fill="#37a4f5"/>
+		<rect id="rect6191" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="6" y="30" x="14" fill="#37a4f5"/>
+		<rect id="rect6195" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="6" y="30" x="22" fill="#7a747c"/>
+		<rect id="rect6152-0" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="12" y="18" x="18" fill="#ac0808"/>
+		<rect id="rect6187" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="2" y="22" x="18" fill="#7a747c"/>
+		<rect id="rect6193" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="8" y="26" x="18" fill="#ac0808"/>
+		<path id="rect5794-7" opacity=".1" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m8 14c-1.108 0-2 0.892-2 2v16h52v-16c0-1.108-0.89199-2-2-2z"/>
+		<path id="rect5794-7-8" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="#dddbdb" d="m8 14c-1.108 0-2 0.892-2 2v1c0-1.108 0.89199-2 2-2h48c1.108 0 2 0.892 2 2v-1c0-1.108-0.89199-2-2-2z"/>
+		<path id="path4707" fill="#7a747c" d="m50 32 2.495 7.0391s0.36321 1-0.63679 1h-1l0.72252 2h1c1 0 1.6387-1 1.6387-1s1.3613 1 2.3613 1h1l-0.72252-2h-1c-1 0-1.3632-1-1.3632-1l-2.495-7.039z"/>
+		<path id="rect5827" opacity=".1" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="url(#linearGradient5851-3)" d="m6.014 32-0.17773 1h52.33l-0.17774-1h-51.975z"/>
+		<path id="path6360-5" d="m23.224 38-0.64356 2h9.0098l0.62012-2z" fill-rule="evenodd" fill="#d71919"/>
+		<path id="path6360-4-3" fill-rule="evenodd" fill="#7a747c" d="m34.224 38-0.64356 2h2.0098l0.62012-2z"/>
+		<rect id="rect6187-5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="2" y="26" x="28" fill="#f99133"/>
+		<rect id="rect6187-5-6" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="2" width="2" y="26" x="32" fill="#7a747c"/>
+	</g>
+</svg>

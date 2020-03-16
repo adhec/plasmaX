@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" viewBox="0 0 64 64.000001" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<defs id="defs4">
+		<linearGradient id="linearGradient5940" y2="996.36" gradientUnits="userSpaceOnUse" x2="30" gradientTransform="translate(0 -988.26)" y1="1044.4" x1="30">
+			<stop id="stop5936" stop-color="#fcfcfc" offset="0"/>
+			<stop id="stop5938" stop-color="#b6b2b6" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient5859-2" y2="1250.4" gradientUnits="userSpaceOnUse" x2="843" gradientTransform="matrix(1.3333 0 0 1 -1098.7 -1281.4)" y1="1249.4" x1="843">
+			<stop id="stop13580" offset="0"/>
+			<stop id="stop13582" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient5859-2-9" y2="1250.4" gradientUnits="userSpaceOnUse" x2="843" gradientTransform="matrix(1.3333 0 0 1 -1098.7 -1217.3)" y1="1249.4" x1="843">
+			<stop id="stop13572" stop-color="#fff" offset="0"/>
+			<stop id="stop13574" stop-color="#fff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+	</defs>
+	<metadata id="metadata7">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<rect id="rect5932" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" ry="4" height="48" width="48" y="8.04" x="8" fill="url(#linearGradient5940)"/>
+	<path id="path5942-3" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m42.293 43.787 1.4141-1.4141-10.293-10.293 10.293-10.293-1.4141-1.4141-11.707 11.707z" fill-rule="evenodd" fill="#f58787"/>
+	<path id="path5942" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid" d="m21.707 43.787-1.4141-1.4141 10.293-10.293-10.293-10.293 1.4141-1.4141 11.707 11.707z" fill-rule="evenodd" fill="#ac0808"/>
+	<path id="rect5987-8" opacity=".1" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m12 8.08c-2.216 0-4 1.784-4 4v20h48v-20c0-2.216-1.784-4-4-4h-40z"/>
+	<rect id="rect5825-4" opacity=".05" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" transform="scale(1,-1)" ry="0" height="1" width="48" y="-32.08" x="8" fill="url(#linearGradient5859-2)"/>
+	<rect id="rect5825-4-4" opacity=".05" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" ry="0" height="1" width="48" y="32.08" x="8" fill="url(#linearGradient5859-2-9)"/>
+	<path id="rect5932-3" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill="#b6b2b6" d="m12 56c-2.216 0-4-1.784-4-4v-1c0 2.216 1.784 4 4 4h40c2.216 0 4-1.784 4-4v1c0 2.216-1.784 4-4 4h-40z"/>
+</svg>
